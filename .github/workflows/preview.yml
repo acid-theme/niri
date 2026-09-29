@@ -9,7 +9,6 @@ on:
       - "acid-acetic.kdl"
       - "acid-citric.kdl"
       - "acid-lactic.kdl"
-      - "preview/**"
   workflow_dispatch:
 
 jobs:
